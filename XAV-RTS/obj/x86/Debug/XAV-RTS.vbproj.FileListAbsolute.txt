@@ -1,0 +1,24 @@
+f:\data\my documents\visual studio 2010\Projects\XAV-RTS\XAV-RTS\bin\Debug\XAV-RTS.exe
+f:\data\my documents\visual studio 2010\Projects\XAV-RTS\XAV-RTS\bin\Debug\XAV-RTS.pdb
+f:\data\my documents\visual studio 2010\Projects\XAV-RTS\XAV-RTS\bin\Debug\XAV-RTS.xml
+f:\data\my documents\visual studio 2010\Projects\XAV-RTS\XAV-RTS\obj\x86\Debug\XAV_RTS.Resources.resources
+f:\data\my documents\visual studio 2010\Projects\XAV-RTS\XAV-RTS\obj\x86\Debug\XAV-RTS.vbproj.GenerateResource.Cache
+f:\data\my documents\visual studio 2010\Projects\XAV-RTS\XAV-RTS\obj\x86\Debug\XAV-RTS.exe
+f:\data\my documents\visual studio 2010\Projects\XAV-RTS\XAV-RTS\obj\x86\Debug\XAV-RTS.xml
+f:\data\my documents\visual studio 2010\Projects\XAV-RTS\XAV-RTS\obj\x86\Debug\XAV-RTS.pdb
+f:\data\my documents\visual studio 2010\Projects\XAV-RTS\XAV-RTS\obj\x86\Debug\XAV_RTS.main.resources
+f:\data\my documents\visual studio 2010\Projects\XAV-RTS\XAV-RTS\obj\x86\Debug\XAV_RTS.SplashScreen1.resources
+f:\data\my documents\visual studio 2010\Projects\XAV-RTS\XAV-RTS\obj\x86\Debug\XAV_RTS.add.resources
+f:\data\my documents\visual studio 2010\Projects\XAV-RTS\XAV-RTS\obj\x86\Debug\XAV_RTS.admin.resources
+E:\DATA\DESKTOP\XAV-RTS\XAV-RTS\bin\Debug\XAV-RTS.exe
+E:\DATA\DESKTOP\XAV-RTS\XAV-RTS\bin\Debug\XAV-RTS.pdb
+E:\DATA\DESKTOP\XAV-RTS\XAV-RTS\bin\Debug\XAV-RTS.xml
+E:\DATA\DESKTOP\XAV-RTS\XAV-RTS\obj\x86\Debug\XAV_RTS.add.resources
+E:\DATA\DESKTOP\XAV-RTS\XAV-RTS\obj\x86\Debug\XAV_RTS.admin.resources
+E:\DATA\DESKTOP\XAV-RTS\XAV-RTS\obj\x86\Debug\XAV_RTS.main.resources
+E:\DATA\DESKTOP\XAV-RTS\XAV-RTS\obj\x86\Debug\XAV_RTS.Resources.resources
+E:\DATA\DESKTOP\XAV-RTS\XAV-RTS\obj\x86\Debug\XAV_RTS.SplashScreen1.resources
+E:\DATA\DESKTOP\XAV-RTS\XAV-RTS\obj\x86\Debug\XAV-RTS.vbproj.GenerateResource.Cache
+E:\DATA\DESKTOP\XAV-RTS\XAV-RTS\obj\x86\Debug\XAV-RTS.exe
+E:\DATA\DESKTOP\XAV-RTS\XAV-RTS\obj\x86\Debug\XAV-RTS.xml
+E:\DATA\DESKTOP\XAV-RTS\XAV-RTS\obj\x86\Debug\XAV-RTS.pdb
